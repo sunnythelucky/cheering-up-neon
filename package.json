@@ -1,24 +1,23 @@
 {
-  "name": "cheering-up-neon",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "dependencies": {
-    "express": "^4.17.1"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sunnythelucky/cheering-up-neon.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sunnythelucky/cheering-up-neon/issues"
-  },
-  "homepage": "https://github.com/sunnythelucky/cheering-up-neon#readme"
+	"name": "cheering-up-neon",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"dependencies": {
+		"express": "^4.17.1"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sunnythelucky/cheering-up-neon.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/sunnythelucky/cheering-up-neon/issues"
+	},
+	"homepage": "https://github.com/sunnythelucky/cheering-up-neon#readme"
 }
