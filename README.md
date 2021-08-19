@@ -1,5 +1,5 @@
 # cheering-up-neon
-Neon styled cheering up app
+<h1>Neon styled cheering up app</h1>
 
 It's an app which cheers you up after having an exhausting day.
 
